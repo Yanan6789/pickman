@@ -1,0 +1,2 @@
+# pickman
+an atom plugin
