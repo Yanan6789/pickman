@@ -3,3 +3,8 @@
 
 # Ada Library Information
 *.ali
+.DS_Store
+node_modules/
+resource/
+dist/
+npm-debug.log
