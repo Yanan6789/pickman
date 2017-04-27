@@ -1,4 +1,4 @@
-# pickman package
+# pickman package for atom
 
 make you write less , then go home early.
 
