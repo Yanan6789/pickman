@@ -13,3 +13,5 @@ apm install pickman
 or
 
  Settings/Preferences ➔ Packages ➔ Search for pickman
+
+<img width="988" alt="machi 2017-04-27 11-11-09" src="https://cloud.githubusercontent.com/assets/6932025/25466301/580eb4fa-2b3a-11e7-862c-b54708ce43d9.png">
